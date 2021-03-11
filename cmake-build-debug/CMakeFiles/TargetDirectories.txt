@@ -1,0 +1,3 @@
+/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/ffmpegstudy.dir
