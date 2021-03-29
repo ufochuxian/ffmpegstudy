@@ -81,17 +81,95 @@ CMakeFiles/ffmpegstudy.dir/helloworld.c.o.provides: CMakeFiles/ffmpegstudy.dir/h
 CMakeFiles/ffmpegstudy.dir/helloworld.c.o.provides.build: CMakeFiles/ffmpegstudy.dir/helloworld.c.o
 
 
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o: CMakeFiles/ffmpegstudy.dir/flags.make
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o: ../TestCpluplsu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o -c /Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp > CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.i
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp -o CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.s
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.requires:
+
+.PHONY : CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.requires
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.provides: CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.provides.build
+.PHONY : CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.provides
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.provides.build: CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o
+
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o: CMakeFiles/ffmpegstudy.dir/flags.make
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o: ../Box.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ffmpegstudy.dir/Box.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ffmpegstudy.dir/Box.cpp.o -c /Users/chen/CLionProjects/ffmpegstudy/Box.cpp
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ffmpegstudy.dir/Box.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chen/CLionProjects/ffmpegstudy/Box.cpp > CMakeFiles/ffmpegstudy.dir/Box.cpp.i
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ffmpegstudy.dir/Box.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chen/CLionProjects/ffmpegstudy/Box.cpp -o CMakeFiles/ffmpegstudy.dir/Box.cpp.s
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o.requires:
+
+.PHONY : CMakeFiles/ffmpegstudy.dir/Box.cpp.o.requires
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o.provides: CMakeFiles/ffmpegstudy.dir/Box.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Box.cpp.o.provides.build
+.PHONY : CMakeFiles/ffmpegstudy.dir/Box.cpp.o.provides
+
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o.provides.build: CMakeFiles/ffmpegstudy.dir/Box.cpp.o
+
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.o: CMakeFiles/ffmpegstudy.dir/flags.make
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.o: ../Suport.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ffmpegstudy.dir/Suport.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ffmpegstudy.dir/Suport.cpp.o -c /Users/chen/CLionProjects/ffmpegstudy/Suport.cpp
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ffmpegstudy.dir/Suport.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chen/CLionProjects/ffmpegstudy/Suport.cpp > CMakeFiles/ffmpegstudy.dir/Suport.cpp.i
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ffmpegstudy.dir/Suport.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chen/CLionProjects/ffmpegstudy/Suport.cpp -o CMakeFiles/ffmpegstudy.dir/Suport.cpp.s
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.requires:
+
+.PHONY : CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.requires
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.provides: CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.provides.build
+.PHONY : CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.provides
+
+CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.provides.build: CMakeFiles/ffmpegstudy.dir/Suport.cpp.o
+
+
 # Object files for target ffmpegstudy
 ffmpegstudy_OBJECTS = \
-"CMakeFiles/ffmpegstudy.dir/helloworld.c.o"
+"CMakeFiles/ffmpegstudy.dir/helloworld.c.o" \
+"CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o" \
+"CMakeFiles/ffmpegstudy.dir/Box.cpp.o" \
+"CMakeFiles/ffmpegstudy.dir/Suport.cpp.o"
 
 # External object files for target ffmpegstudy
 ffmpegstudy_EXTERNAL_OBJECTS =
 
 ffmpegstudy: CMakeFiles/ffmpegstudy.dir/helloworld.c.o
+ffmpegstudy: CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o
+ffmpegstudy: CMakeFiles/ffmpegstudy.dir/Box.cpp.o
+ffmpegstudy: CMakeFiles/ffmpegstudy.dir/Suport.cpp.o
 ffmpegstudy: CMakeFiles/ffmpegstudy.dir/build.make
 ffmpegstudy: CMakeFiles/ffmpegstudy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable ffmpegstudy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ffmpegstudy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ffmpegstudy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +178,9 @@ CMakeFiles/ffmpegstudy.dir/build: ffmpegstudy
 .PHONY : CMakeFiles/ffmpegstudy.dir/build
 
 CMakeFiles/ffmpegstudy.dir/requires: CMakeFiles/ffmpegstudy.dir/helloworld.c.o.requires
+CMakeFiles/ffmpegstudy.dir/requires: CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o.requires
+CMakeFiles/ffmpegstudy.dir/requires: CMakeFiles/ffmpegstudy.dir/Box.cpp.o.requires
+CMakeFiles/ffmpegstudy.dir/requires: CMakeFiles/ffmpegstudy.dir/Suport.cpp.o.requires
 
 .PHONY : CMakeFiles/ffmpegstudy.dir/requires
 

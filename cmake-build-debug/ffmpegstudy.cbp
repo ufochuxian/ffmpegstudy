@@ -80,6 +80,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/Box.cpp">
+			<Option target="ffmpegstudy"/>
+		</Unit>
+		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/Box.h">
+			<Option target="ffmpegstudy"/>
+		</Unit>
+		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/Suport.cpp">
+			<Option target="ffmpegstudy"/>
+		</Unit>
+		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp">
+			<Option target="ffmpegstudy"/>
+		</Unit>
+		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.h">
+			<Option target="ffmpegstudy"/>
+		</Unit>
 		<Unit filename="/Users/chen/CLionProjects/ffmpegstudy/helloworld.c">
 			<Option target="ffmpegstudy"/>
 		</Unit>

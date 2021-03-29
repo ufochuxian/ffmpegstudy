@@ -3,3 +3,10 @@
 
 CMakeFiles/ffmpegstudy.dir/helloworld.c.o: ../helloworld.c
 
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o: ../Box.cpp
+CMakeFiles/ffmpegstudy.dir/Box.cpp.o: ../Box.h
+
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o: ../Box.h
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o: ../TestCpluplsu.cpp
+CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o: ../TestCpluplsu.h
+

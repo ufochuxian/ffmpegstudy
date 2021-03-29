@@ -123,6 +123,87 @@ ffmpegstudy/fast:
 	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/build
 .PHONY : ffmpegstudy/fast
 
+Box.o: Box.cpp.o
+
+.PHONY : Box.o
+
+# target to build an object file
+Box.cpp.o:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Box.cpp.o
+.PHONY : Box.cpp.o
+
+Box.i: Box.cpp.i
+
+.PHONY : Box.i
+
+# target to preprocess a source file
+Box.cpp.i:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Box.cpp.i
+.PHONY : Box.cpp.i
+
+Box.s: Box.cpp.s
+
+.PHONY : Box.s
+
+# target to generate assembly for a file
+Box.cpp.s:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Box.cpp.s
+.PHONY : Box.cpp.s
+
+Suport.o: Suport.cpp.o
+
+.PHONY : Suport.o
+
+# target to build an object file
+Suport.cpp.o:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Suport.cpp.o
+.PHONY : Suport.cpp.o
+
+Suport.i: Suport.cpp.i
+
+.PHONY : Suport.i
+
+# target to preprocess a source file
+Suport.cpp.i:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Suport.cpp.i
+.PHONY : Suport.cpp.i
+
+Suport.s: Suport.cpp.s
+
+.PHONY : Suport.s
+
+# target to generate assembly for a file
+Suport.cpp.s:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/Suport.cpp.s
+.PHONY : Suport.cpp.s
+
+TestCpluplsu.o: TestCpluplsu.cpp.o
+
+.PHONY : TestCpluplsu.o
+
+# target to build an object file
+TestCpluplsu.cpp.o:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o
+.PHONY : TestCpluplsu.cpp.o
+
+TestCpluplsu.i: TestCpluplsu.cpp.i
+
+.PHONY : TestCpluplsu.i
+
+# target to preprocess a source file
+TestCpluplsu.cpp.i:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.i
+.PHONY : TestCpluplsu.cpp.i
+
+TestCpluplsu.s: TestCpluplsu.cpp.s
+
+.PHONY : TestCpluplsu.s
+
+# target to generate assembly for a file
+TestCpluplsu.cpp.s:
+	$(MAKE) -f CMakeFiles/ffmpegstudy.dir/build.make CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.s
+.PHONY : TestCpluplsu.cpp.s
+
 helloworld.o: helloworld.c.o
 
 .PHONY : helloworld.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ffmpegstudy"
+	@echo "... Box.o"
+	@echo "... Box.i"
+	@echo "... Box.s"
+	@echo "... Suport.o"
+	@echo "... Suport.i"
+	@echo "... Suport.s"
+	@echo "... TestCpluplsu.o"
+	@echo "... TestCpluplsu.i"
+	@echo "... TestCpluplsu.s"
 	@echo "... helloworld.o"
 	@echo "... helloworld.i"
 	@echo "... helloworld.s"

@@ -9,6 +9,10 @@
 /Users/chen/CLionProjects/ffmpegstudy/helloworld.c
 stdlib.h
 -
-printf.h
+stdio.h
+-
+ctype.h
+-
+objc/runtime.h
 -
 
