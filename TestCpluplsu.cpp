@@ -15,6 +15,11 @@ std::string name;
 //这里显示告知编译器，这里的使用的是一个外部的函数
 extern int sayHello();
 
+extern void testEndlessFun();
+
+#include "Malloc.h"
+
+
 //int testVecotr() {
 //
 //    vector<int> v = {10,11,12,4};
@@ -34,12 +39,19 @@ int main() {
 //    testVecotr();
 
 //    Box box;
-//
+////
 //    box.printStr();
 
-    name = "yaoming";
+//    name = "yaoming";
+//
+//    sayHello();
+//    testEndlessFun();
 
-    sayHello();
+    Malloc malloc1;
+
+    malloc1.testMalloc();
+
+
 
 }
 

@@ -3,4 +3,4 @@ project(ffmpegstudy)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(ffmpegstudy helloworld.c TestCpluplsu.cpp TestCpluplsu.h Box.cpp Box.h Suport.cpp)
+add_executable(ffmpegstudy helloworld.c TestCpluplsu.cpp TestCpluplsu.h Box.cpp Box.h Suport.cpp Malloc.cpp Malloc.h)

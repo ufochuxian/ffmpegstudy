@@ -6,13 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/Users/chen/CLionProjects/ffmpegstudy/helloworld.c
-stdlib.h
--
-stdio.h
--
-ctype.h
--
-objc/runtime.h
--
-

@@ -14,6 +14,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/chen/CLionProjects/ffmpegstudy/Box.cpp" "/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/ffmpegstudy.dir/Box.cpp.o"
+  "/Users/chen/CLionProjects/ffmpegstudy/Malloc.cpp" "/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/ffmpegstudy.dir/Malloc.cpp.o"
   "/Users/chen/CLionProjects/ffmpegstudy/Suport.cpp" "/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/ffmpegstudy.dir/Suport.cpp.o"
   "/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp" "/Users/chen/CLionProjects/ffmpegstudy/cmake-build-debug/CMakeFiles/ffmpegstudy.dir/TestCpluplsu.cpp.o"
   )

@@ -14,3 +14,11 @@ int sayHello() {
     return 0;
 
 }
+
+void testEndlessFun() {
+
+    for(;;) {
+        printf("这是一个无线循环的函数\n");
+    }
+
+}

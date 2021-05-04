@@ -6,23 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/chen/CLionProjects/ffmpegstudy/Box.cpp
-Box.h
-/Users/chen/CLionProjects/ffmpegstudy/Box.h
-iostream
+/Users/chen/CLionProjects/ffmpegstudy/Malloc.cpp
+stdint.h
 -
-
-/Users/chen/CLionProjects/ffmpegstudy/Box.h
-string
+cstdlib
 -
-
-/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.cpp
-TestCpluplsu.h
-/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.h
-vector
+cstdio
 -
-Box.h
-/Users/chen/CLionProjects/ffmpegstudy/Box.h
+Malloc.h
+/Users/chen/CLionProjects/ffmpegstudy/Malloc.h
 
-/Users/chen/CLionProjects/ffmpegstudy/TestCpluplsu.h
+/Users/chen/CLionProjects/ffmpegstudy/Malloc.h
 
